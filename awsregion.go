@@ -13,7 +13,8 @@ ap-northeast-1	アジアパシフィック（東京）
 ap-southeast-2	アジアパシフィック（シドニー）
 ap-northeast-2	アジアパシフィック (ソウル)
 ap-south-1	アジアパシフィック (ムンバイ)
-sa-east-1	南米 (サンパウロ)`
+sa-east-1	南米 (サンパウロ)
+`
 
     fmt.Printf(string(str))
 }
